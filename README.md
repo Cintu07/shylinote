@@ -1,11 +1,12 @@
 # ShyliNote 📝
 
-ShyliNote is a clean, responsive note-taking app built using **Next.js 13 (App Router)** and **Firebase**. It allows users to securely register, log in, and manage their personal notes in real-time.
+**ShyliNote** is a blazing fast, fully authenticated markdown-based notes application built with **Next.js 15 App Router**, **Firebase Authentication**, and **Firestore**. It allows users to securely register, log in, and manage their personal notes in real-time.
 
 ## 🚀 Features
 
 - 🔐 Firebase Authentication (Email/Password)
 - 🗂️ Real-time Firestore Database
+- 📝 Markdown Editor & Viewer Toggle
 - 🌙 Dark Mode Ready (optional)
 - ⚡ Fast builds with Turbopack
 - 📱 Fully responsive design
@@ -13,10 +14,10 @@ ShyliNote is a clean, responsive note-taking app built using **Next.js 13 (App R
 
 ## 📦 Built With
 
-- **Next.js 13+** (App Router)
+- **Next.js 15+** (App Router)
 - **Firebase** (Auth + Firestore)
 - **React**
-- **Tailwind CSS** (if used)
+- **Tailwind CSS**
 - **Vercel** for deployment
 
 ## 📸 Screenshots
